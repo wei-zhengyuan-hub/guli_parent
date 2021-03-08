@@ -1,7 +1,7 @@
 package com.atguigu.service_edu.service;
 
 import com.atguigu.service_edu.entity.EduTeacher;
-import com.atguigu.service_edu.query.TeacherQuery;
+import com.atguigu.service_edu.entity.vo.TeacherQuery;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.baomidou.mybatisplus.extension.service.IService;
 

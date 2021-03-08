@@ -2,7 +2,7 @@ package com.atguigu.service_edu.service.impl;
 
 import com.atguigu.service_edu.mapper.EduTeacherMapper;
 import com.atguigu.service_edu.service.EduTeacherService;
-import com.atguigu.service_edu.query.TeacherQuery;
+import com.atguigu.service_edu.entity.vo.TeacherQuery;
 import com.atguigu.service_edu.entity.EduTeacher;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;

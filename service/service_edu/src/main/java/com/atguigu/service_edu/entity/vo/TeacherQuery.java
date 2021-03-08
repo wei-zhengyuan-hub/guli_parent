@@ -1,4 +1,4 @@
-package com.atguigu.service_edu.query;
+package com.atguigu.service_edu.entity.vo;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
